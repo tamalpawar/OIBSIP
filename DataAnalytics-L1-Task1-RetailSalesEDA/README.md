@@ -187,3 +187,39 @@ DataAnalytics-L1-Task1-RetailSalesEDA/
 ├── Retail_Sales_EDA.ipynb
 ├── README.md
 └── .gitignore
+
+```
+---
+
+## ▶️ How to Run
+
+1. Clone the repository:
+
+   `git clone https://github.com/tamalpawar/OIBSIP.git`
+
+2. Navigate to the project folder:
+
+   `cd OIBSIP/DataAnalytics-L1-Task1-RetailSalesEDA`
+
+3. Open `Retail_Sales_EDA.ipynb` in VS Code or Jupyter Notebook.
+
+4. Select the Python environment with the required libraries installed.
+
+5. Run the notebook cells sequentially to reproduce the analysis and visualizations.
+
+---
+
+## 📌 Conclusion
+
+This project provides an exploratory analysis of retail sales data covering sales trends, customer demographics, product performance, category-wise revenue, correlations, and profitability.
+
+The analysis highlights important patterns in customer segments, product demand, revenue generation, and category-level profitability. These insights can support data-driven decisions related to inventory planning, customer targeting, product strategy, and profitability monitoring.
+
+---
+
+## 📎 Project Deliverables
+
+- `Retail_Sales_EDA.ipynb` — Complete EDA notebook
+- `dataset/retail_sales_dataset.csv` — Retail sales dataset
+- `outputs/` — Generated analysis visualizations
+- `README.md` — Project documentation
