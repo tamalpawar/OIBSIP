@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# Dataset - too large for GitHub
+dataset/creditcard.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
