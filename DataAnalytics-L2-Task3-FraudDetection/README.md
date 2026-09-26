@@ -103,10 +103,10 @@ Final Comparison
 
 ### Model Comparison
 
-| Model | Precision | Recall | F1-Score | ROC-AUC |
-|---|---:|---:|---:|---:|
-| Logistic Regression | 0.1406 | 0.8526 | 0.2414 | 0.9646 |
-| Random Forest | 0.9012 | 0.7684 | 0.8295 | 0.9507 |
+|        Model        | Precision | Recall | F1-Score | ROC-AUC |
+|---------------------|----------:|-------:|---------:|--------:|
+| Logistic Regression |   0.1406  | 0.8526 |  0.2414  |  0.9646 |
+|    Random Forest    |   0.9012  | 0.7684 |  0.8295  |  0.9507 |
 
 The models demonstrate a precision-recall trade-off. Logistic Regression detected a larger proportion of fraudulent transactions, while Random Forest produced substantially fewer false-positive fraud predictions.
 
